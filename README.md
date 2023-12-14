@@ -10,7 +10,8 @@
 - Pull from origin (`git pull origin main`)
 - Create a Branch (`git branch new-branch-name && git checkout new-branch-name`)
 - Make changes to your branch... (add one or more commits)
+- Before pushing your bannch, Pull all changes from origin `main` (`git pull origin main`)
 - Push your branch (`git push origin new-branch-name`)
 - Create a Pull Request (PR) here on the Github Repo
 - Only merge into `main` branch here on GitHub after code revier approval!
-- 
+
