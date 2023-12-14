@@ -13,5 +13,5 @@
 - Before pushing your branch, Pull all changes from origin `main` into your branch (`git pull origin main`)
 - Push your branch (`git push origin new-branch-name`)
 - Create a Pull Request (PR) here on the Github Repo
-- Only merge into `main` branch here on GitHub after code revier approval!
+- Only merge into `main` branch here on GitHub after code review approval!
 
