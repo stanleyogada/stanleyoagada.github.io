@@ -6,8 +6,11 @@
 - then open the `index.html` file in the browser (to view) or nano (to edit)
 
 ## Contribution (The Git WorkFlow)
-- Create a Branch
-- Make changes to your branch
-- Push your branch
-- Create a Pull Request (PR) on the Github Repo
+- Switch to the `main` branch (`git checkout main`)
+- Pull from origin (`git pull origin main`)
+- Create a Branch (`git branch new-branch-name && git checkout new-branch-name`)
+- Make changes to your branch... (add one or more commits)
+- Push your branch (`git push origin new-branch-name`)
+- Create a Pull Request (PR) here on the Github Repo
 - Only merge into `main` branch here on GitHub after code revier approval!
+- 
