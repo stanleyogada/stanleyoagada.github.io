@@ -1,5 +1,7 @@
 ## Usage
 - git clone https://github.com/stanleyogada/stanleyoagada.github.io
+- cd into the directory created
+- then open the `index.html` file in the browser (to view) or nano (to edit)
 
 
 ## Contribution
