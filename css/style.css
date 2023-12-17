@@ -1,0 +1,11 @@
+div h3 {
+	color: green;
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 1px solid #aaa;
+}
+div p {
+	text-transform: italic;
+	opacity: .8;
+	margin-bottom: 20px;
+}
